@@ -1,0 +1,7 @@
+id,text
+1,"this is very good"
+2,"this is really good"
+3,"this is mad"
+4,"this is too sweet"
+5,"I love pickles"
+
